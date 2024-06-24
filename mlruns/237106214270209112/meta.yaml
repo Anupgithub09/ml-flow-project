@@ -1,0 +1,6 @@
+artifact_location: /Users/adash/Learning/MlOps/MLFlow/ml_flow/custom-models/../mlruns/237106214270209112
+creation_time: 1718071443830
+experiment_id: '237106214270209112'
+last_update_time: 1718071443830
+lifecycle_stage: active
+name: experiment_model_evaluation

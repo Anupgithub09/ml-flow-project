@@ -1,0 +1,6 @@
+artifact_location: /Users/adash/Learning/MlOps/MLFlow/ml_flow/custom-models/../mlruns/723588939021465089
+creation_time: 1717803164863
+experiment_id: '723588939021465089'
+last_update_time: 1717803164863
+lifecycle_stage: active
+name: experiment_custom_sklearn

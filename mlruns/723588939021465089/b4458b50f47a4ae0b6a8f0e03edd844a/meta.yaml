@@ -1,0 +1,16 @@
+artifact_uri: /Users/adash/Learning/MlOps/MLFlow/ml_flow/custom-models/../mlruns/723588939021465089/b4458b50f47a4ae0b6a8f0e03edd844a/artifacts
+deleted_time: 1717978107012
+end_time: 1717977989650
+entry_point_name: ''
+experiment_id: '723588939021465089'
+lifecycle_stage: deleted
+run_id: b4458b50f47a4ae0b6a8f0e03edd844a
+run_name: thundering-finch-167
+run_uuid: b4458b50f47a4ae0b6a8f0e03edd844a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717977989150
+status: 3
+tags: []
+user_id: adash

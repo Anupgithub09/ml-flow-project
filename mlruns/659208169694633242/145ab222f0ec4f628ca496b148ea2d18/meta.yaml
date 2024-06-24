@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adash/Learning/MlOps/MLFlow/ml_flow/mlruns/659208169694633242/145ab222f0ec4f628ca496b148ea2d18/artifacts
+end_time: 1717244044859
+entry_point_name: ''
+experiment_id: '659208169694633242'
+lifecycle_stage: active
+run_id: 145ab222f0ec4f628ca496b148ea2d18
+run_name: bouncy-asp-133
+run_uuid: 145ab222f0ec4f628ca496b148ea2d18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717244042821
+status: 3
+tags: []
+user_id: adash

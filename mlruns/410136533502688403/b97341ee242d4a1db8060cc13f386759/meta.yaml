@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adash/Learning/MlOps/MLFlow/ml_flow/mlruns/410136533502688403/b97341ee242d4a1db8060cc13f386759/artifacts
+end_time: 1717244647856
+entry_point_name: ''
+experiment_id: '410136533502688403'
+lifecycle_stage: active
+run_id: b97341ee242d4a1db8060cc13f386759
+run_name: incongruous-toad-17
+run_uuid: b97341ee242d4a1db8060cc13f386759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717244645829
+status: 3
+tags: []
+user_id: adash

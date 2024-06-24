@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718147544303
+current_stage: None
+description: ''
+last_updated_timestamp: 1718147544303
+name: elastic-net
+run_id: 42bdee72476d496091f2e016111f4621
+run_link: ''
+source: /Users/adash/Learning/MlOps/MLFlow/ml_flow/custom-models/../mlruns/237106214270209112/42bdee72476d496091f2e016111f4621/artifacts/sklear_mlflow_pyfunc
+status: READY
+status_message: null
+storage_location: /Users/adash/Learning/MlOps/MLFlow/ml_flow/custom-models/../mlruns/237106214270209112/42bdee72476d496091f2e016111f4621/artifacts/sklear_mlflow_pyfunc
+user_id: null
+version: 1

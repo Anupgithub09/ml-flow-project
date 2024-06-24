@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/222802819228807856/337df16d3cc34f06ac121b00e9fb3858/artifacts
+end_time: 1718245378774
+entry_point_name: ''
+experiment_id: '222802819228807856'
+lifecycle_stage: active
+run_id: 337df16d3cc34f06ac121b00e9fb3858
+run_name: placid-bug-825
+run_uuid: 337df16d3cc34f06ac121b00e9fb3858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718245376604
+status: 3
+tags: []
+user_id: adash

@@ -1,0 +1,15 @@
+artifact_uri: /Users/adash/Learning/MlOps/MLFlow/ml_flow/custom-models/../mlruns/723588939021465089/21b6d478b6eb4544a7e78622678d4555/artifacts
+end_time: 1717977715731
+entry_point_name: ''
+experiment_id: '723588939021465089'
+lifecycle_stage: active
+run_id: 21b6d478b6eb4544a7e78622678d4555
+run_name: shivering-swan-638
+run_uuid: 21b6d478b6eb4544a7e78622678d4555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717977694230
+status: 3
+tags: []
+user_id: adash

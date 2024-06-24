@@ -1,0 +1,15 @@
+artifact_uri: /Users/adash/Learning/MlOps/MLFlow/ml_flow/custom-models/../mlruns/237106214270209112/42bdee72476d496091f2e016111f4621/artifacts
+end_time: 1718072185087
+entry_point_name: ''
+experiment_id: '237106214270209112'
+lifecycle_stage: active
+run_id: 42bdee72476d496091f2e016111f4621
+run_name: illustrious-wolf-157
+run_uuid: 42bdee72476d496091f2e016111f4621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718072174923
+status: 3
+tags: []
+user_id: adash

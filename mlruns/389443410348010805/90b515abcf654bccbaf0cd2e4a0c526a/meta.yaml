@@ -1,0 +1,15 @@
+artifact_uri: /Users/adash/Learning/MlOps/MLFlow/ml_flow/model-signature/../mlruns/389443410348010805/90b515abcf654bccbaf0cd2e4a0c526a/artifacts
+end_time: 1717729618376
+entry_point_name: ''
+experiment_id: '389443410348010805'
+lifecycle_stage: active
+run_id: 90b515abcf654bccbaf0cd2e4a0c526a
+run_name: rare-snipe-648
+run_uuid: 90b515abcf654bccbaf0cd2e4a0c526a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717729616118
+status: 3
+tags: []
+user_id: adash

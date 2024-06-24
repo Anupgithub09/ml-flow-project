@@ -1,0 +1,15 @@
+artifact_uri: /Users/adash/Learning/MlOps/MLFlow/ml_flow/custom-models/../mlruns/723588939021465089/7f06ef7f73ff4edaabfa46bc26785ee5/artifacts
+end_time: 1717803165739
+entry_point_name: ''
+experiment_id: '723588939021465089'
+lifecycle_stage: active
+run_id: 7f06ef7f73ff4edaabfa46bc26785ee5
+run_name: bittersweet-rook-993
+run_uuid: 7f06ef7f73ff4edaabfa46bc26785ee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717803164929
+status: 3
+tags: []
+user_id: adash

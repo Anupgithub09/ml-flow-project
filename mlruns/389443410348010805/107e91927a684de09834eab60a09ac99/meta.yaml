@@ -1,0 +1,15 @@
+artifact_uri: /Users/adash/Learning/MlOps/MLFlow/ml_flow/model-signature/../mlruns/389443410348010805/107e91927a684de09834eab60a09ac99/artifacts
+end_time: 1717730033731
+entry_point_name: ''
+experiment_id: '389443410348010805'
+lifecycle_stage: active
+run_id: 107e91927a684de09834eab60a09ac99
+run_name: skillful-grub-20
+run_uuid: 107e91927a684de09834eab60a09ac99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717730031104
+status: 3
+tags: []
+user_id: adash

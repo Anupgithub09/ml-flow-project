@@ -1,0 +1,15 @@
+artifact_uri: /Users/adash/Learning/MlOps/MLFlow/ml_flow/custom-models/../mlruns/723588939021465089/36bfbf82652b4a1eb116a700dc167f2d/artifacts
+end_time: 1717978091204
+entry_point_name: ''
+experiment_id: '723588939021465089'
+lifecycle_stage: active
+run_id: 36bfbf82652b4a1eb116a700dc167f2d
+run_name: ambitious-gnu-507
+run_uuid: 36bfbf82652b4a1eb116a700dc167f2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717978080043
+status: 3
+tags: []
+user_id: adash

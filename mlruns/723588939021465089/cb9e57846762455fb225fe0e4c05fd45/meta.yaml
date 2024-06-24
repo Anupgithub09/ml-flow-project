@@ -1,0 +1,15 @@
+artifact_uri: /Users/adash/Learning/MlOps/MLFlow/ml_flow/custom-models/../mlruns/723588939021465089/cb9e57846762455fb225fe0e4c05fd45/artifacts
+end_time: 1717803253671
+entry_point_name: ''
+experiment_id: '723588939021465089'
+lifecycle_stage: active
+run_id: cb9e57846762455fb225fe0e4c05fd45
+run_name: selective-mouse-979
+run_uuid: cb9e57846762455fb225fe0e4c05fd45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717803252896
+status: 3
+tags: []
+user_id: adash

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adash/Learning/MlOps/MLFlow/ml_flow/myartifacts/87945421f05241c4a6c5f5eae6456e9c/artifacts
+end_time: 1717038386299
+entry_point_name: ''
+experiment_id: '547444030605249263'
+lifecycle_stage: active
+run_id: 87945421f05241c4a6c5f5eae6456e9c
+run_name: bouncy-mare-627
+run_uuid: 87945421f05241c4a6c5f5eae6456e9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717038384281
+status: 3
+tags: []
+user_id: adash

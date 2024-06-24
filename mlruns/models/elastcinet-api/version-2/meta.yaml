@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718245572332
+current_stage: None
+description: ''
+last_updated_timestamp: 1718245572332
+name: elastcinet-api
+run_id: db2c54ccbb294a69b739a0c1f660cf40
+run_link: ''
+source: mlflow-artifacts:/222802819228807856/db2c54ccbb294a69b739a0c1f660cf40/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/222802819228807856/db2c54ccbb294a69b739a0c1f660cf40/artifacts/model
+user_id: null
+version: 2

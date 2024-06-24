@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adash/Learning/MlOps/MLFlow/ml_flow/mlruns/457009356632586729/c2ccd059c19c4827a7f83df065e6b4f7/artifacts
+end_time: 1716952479121
+entry_point_name: ''
+experiment_id: '457009356632586729'
+lifecycle_stage: active
+run_id: c2ccd059c19c4827a7f83df065e6b4f7
+run_name: nervous-koi-237
+run_uuid: c2ccd059c19c4827a7f83df065e6b4f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716952477240
+status: 3
+tags: []
+user_id: adash

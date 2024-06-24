@@ -1,0 +1,15 @@
+artifact_uri: /Users/adash/Learning/MlOps/MLFlow/ml_flow/code-multi-run-exp/../mlruns/403574316778267306/d5b9b3cb90944a358fdeff4f3dac6005/artifacts
+end_time: 1717297103218
+entry_point_name: ''
+experiment_id: '403574316778267306'
+lifecycle_stage: active
+run_id: d5b9b3cb90944a358fdeff4f3dac6005
+run_name: run2.1
+run_uuid: d5b9b3cb90944a358fdeff4f3dac6005
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717297101540
+status: 3
+tags: []
+user_id: adash

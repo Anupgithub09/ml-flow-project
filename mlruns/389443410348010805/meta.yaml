@@ -1,0 +1,6 @@
+artifact_location: /Users/adash/Learning/MlOps/MLFlow/ml_flow/model-signature/../mlruns/389443410348010805
+creation_time: 1717729616072
+experiment_id: '389443410348010805'
+last_update_time: 1717729616072
+lifecycle_stage: active
+name: experiment_signature

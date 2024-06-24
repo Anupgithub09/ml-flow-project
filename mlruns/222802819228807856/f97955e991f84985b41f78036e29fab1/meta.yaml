@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/222802819228807856/f97955e991f84985b41f78036e29fab1/artifacts
+end_time: 1718246297159
+entry_point_name: ''
+experiment_id: '222802819228807856'
+lifecycle_stage: active
+run_id: f97955e991f84985b41f78036e29fab1
+run_name: loud-dove-626
+run_uuid: f97955e991f84985b41f78036e29fab1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718246294894
+status: 3
+tags: []
+user_id: adash

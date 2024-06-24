@@ -1,0 +1,15 @@
+artifact_uri: /Users/adash/Learning/MlOps/MLFlow/ml_flow/code-auto-logging/../mlruns/740812976324107970/81e962de1a9c4338a4a6d31ff9cc681a/artifacts
+end_time: 1717386025435
+entry_point_name: ''
+experiment_id: '740812976324107970'
+lifecycle_stage: active
+run_id: 81e962de1a9c4338a4a6d31ff9cc681a
+run_name: grandiose-fly-902
+run_uuid: 81e962de1a9c4338a4a6d31ff9cc681a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717386022996
+status: 3
+tags: []
+user_id: adash

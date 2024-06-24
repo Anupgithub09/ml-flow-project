@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/adash/Learning/MlOps/MLFlow/ml_flow/mlruns/457009356632586729/a7b8551b82da4d3ab8c1c1737f8de655/artifacts
+end_time: 1716953069077
+entry_point_name: ''
+experiment_id: '457009356632586729'
+lifecycle_stage: active
+run_id: a7b8551b82da4d3ab8c1c1737f8de655
+run_name: upbeat-squirrel-944
+run_uuid: a7b8551b82da4d3ab8c1c1737f8de655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716953067186
+status: 3
+tags: []
+user_id: adash
